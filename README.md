@@ -1,4 +1,5 @@
 # py-wordcloud
 Generate wordclouds from txt files
 
-![Figure_1](https://user-images.githubusercontent.com/62355596/180894126-a5cec168-9bb3-44e4-aee0-a0bb6a4d1404.png)
+
+![Figure_1](https://user-images.githubusercontent.com/62355596/180894345-59da27d8-133d-417d-a914-6d03498e5c3f.png)
